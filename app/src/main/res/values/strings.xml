@@ -3,4 +3,7 @@
     <string name="bell">bell</string>
     <string name="startTimer">00:59</string>
     <string name="start">START</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="purchase">Purchase</string>
 </resources>
